@@ -1,0 +1,16 @@
+.div {
+	text-align: center;
+	width: 400px;
+	height: 200px;
+	margin: 10px auto;
+}
+.img-bkg {
+	background: url('./katong.jpg');
+}
+.scroll {
+	overflow-y: scroll;
+}
+#btn1 {
+	color: red;
+	margin: 0 auto;
+}
